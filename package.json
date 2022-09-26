@@ -1,0 +1,14 @@
+{
+  "name": "jest_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sijinyu/jest_tutorial.git",
+  "author": "sijinyu <sijinyudev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
